@@ -1,5 +1,6 @@
 [![website](https://img.shields.io/badge/jora.dev-blog-brightgreen?style=flat)](http://jora.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-kindra/)
+![Profile views](https://komarev.com/ghpvc/?username=dyadyaJora)
 
 
 - 👋 Hi, I’m @dyadyaJora ! I'm Software Engineer 
